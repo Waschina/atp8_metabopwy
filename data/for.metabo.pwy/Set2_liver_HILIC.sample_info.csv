@@ -1,0 +1,25 @@
+sample,colname.pos,colname.neg,genotype
+B6_1,Area: B6_1_ML_polar_HILIC_pos_01.raw (F1),Area: B6_1_ML_polar_HILIC_neg_01.raw (F1),B6
+B6_2,Area: B6_2_ML_polar_HILIC_pos_01.raw (F2),Area: B6_2_ML_polar_HILIC_neg_01.raw (F2),B6
+B6_3,Area: B6_3_ML_polar_HILIC_pos_01.raw (F3),Area: B6_3_ML_polar_HILIC_neg_01.raw (F3),B6
+B6_14,Area: B6_14_ML_polar_HILIC_pos_01.raw (F4),Area: B6_14_ML_polar_HILIC_neg_01.raw (F4),B6
+B6_15,Area: B6_15_ML_polar_HILIC_pos_01.raw (F5),Area: B6_15_ML_polar_HILIC_neg_01.raw (F5),B6
+B6_16,Area: B6_16_ML_polar_HILIC_pos_01.raw (F6),Area: B6_16_ML_polar_HILIC_neg_01.raw (F6),B6
+B6_26,Area: B6_26_ML_polar_HILIC_pos_01.raw (F7),Area: B6_26_ML_polar_HILIC_neg_01.raw (F7),B6
+B6_27,Area: B6_27_ML_polar_HILIC_pos_01.raw (F8),Area: B6_27_ML_polar_HILIC_neg_01.raw (F8),B6
+B6_28,Area: B6_28_ML_polar_HILIC_pos_01.raw (F9),Area: B6_28_ML_polar_HILIC_neg_01.raw (F9),B6
+B6_32,Area: B6_32_ML_polar_HILIC_pos_01.raw (F10),Area: B6_32_ML_polar_HILIC_neg_01.raw (F10),B6
+B6_33,Area: B6_33_ML_polar_HILIC_pos_01.raw (F11),Area: B6_33_ML_polar_HILIC_neg_01.raw (F11),B6
+B6_34,Area: B6_34_ML_polar_HILIC_pos_01.raw (F12),Area: B6_34_ML_polar_HILIC_neg_01.raw (F12),B6
+FVB_4,Area: FVB_4_ML_polar_HILIC_pos_01.raw (F14),Area: FVB_4_ML_polar_HILIC_neg_01.raw (F14),FVB
+FVB_5,Area: FVB_5_ML_polar_HILIC_pos_01.raw (F15),Area: FVB_5_ML_polar_HILIC_neg_01.raw (F15),FVB
+FVB_6,Area: FVB_6_ML_polar_HILIC_pos_01.raw (F16),Area: FVB_6_ML_polar_HILIC_neg_01.raw (F16),FVB
+FVB_17,Area: FVB_17_ML_polar_HILIC_pos_01.raw (F17),Area: FVB_17_ML_polar_HILIC_neg_01.raw (F17),FVB
+FVB_18,Area: FVB_18_ML_polar_HILIC_pos_01.raw (F18),Area: FVB_18_ML_polar_HILIC_neg_01.raw (F18),FVB
+FVB_19,Area: FVB_19_ML_polar_HILIC_pos_01.raw (F19),Area: FVB_19_ML_polar_HILIC_neg_01.raw (F19),FVB
+FVB_29,Area: FVB_29_ML_polar_HILIC_pos_01.raw (F20),Area: FVB_29_ML_polar_HILIC_neg_01.raw (F20),FVB
+FVB_30,Area: FVB_30_ML_polar_HILIC_pos_01.raw (F21),Area: FVB_30_ML_polar_HILIC_neg_01.raw (F21),FVB
+FVB_31,Area: FVB_31_ML_polar_HILIC_pos_01.raw (F22),Area: FVB_31_ML_polar_HILIC_neg_01.raw (F22),FVB
+FVB_35,Area: FVB_35_ML_polar_HILIC_pos_01.raw (F23),Area: FVB_35_ML_polar_HILIC_neg_01.raw (F23),FVB
+FVB_36,Area: FVB_36_ML_polar_HILIC_pos_01.raw (F24),Area: FVB_36_ML_polar_HILIC_neg_01.raw (F24),FVB
+FVB_37,Area: FVB_37_ML_polar_HILIC_pos_01.raw (F25),Area: FVB_37_ML_polar_HILIC_neg_01.raw (F25),FVB

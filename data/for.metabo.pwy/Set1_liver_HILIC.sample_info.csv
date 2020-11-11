@@ -1,0 +1,9 @@
+sample,colnames.pos,colnames.neg,genotype
+B6_1,Area: B6_1_ML_polar_HILIC_pos_01.raw (F1),Area: B6_1_ML_polar_HILIC_neg_01.raw (F1),B6
+B6_2,Area: B6_2_ML_polar_HILIC_pos_01.raw (F2),Area: B6_2_ML_polar_HILIC_neg_01.raw (F2),B6
+B6_3,Area: B6_3_ML_polar_HILIC_pos_01.raw (F3),Area: B6_3_ML_polar_HILIC_neg_01.raw (F3),B6
+B6_4,Area: B6_4_ML_polar_HILIC_pos_01.raw (F4),Area: B6_4_ML_polar_HILIC_neg_01.raw (F4),B6
+FVB_1,Area: FVB_1_ML_polar_HILIC_pos_01.raw (F7),Area: FVB_1_ML_polar_HILIC_neg_01.raw (F7),FVB
+FVB_2,Area: FVB_2_ML_polar_HILIC_pos_01.raw (F8),Area: FVB_2_ML_polar_HILIC_neg_01.raw (F8),FVB
+FVB_3,Area: FVB_3_ML_polar_HILIC_pos_01.raw (F9),Area: FVB_3_ML_polar_HILIC_neg_01.raw (F9),FVB
+FVB_4,Area: FVB_4_ML_polar_HILIC_pos_01.raw (F10),Area: FVB_4_ML_polar_HILIC_neg_01.raw (F10),FVB
